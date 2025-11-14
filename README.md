@@ -301,6 +301,26 @@ ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 </details>
 
 
+### Gumpbox
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://www.gumpbox.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Paid (25$, pay once)</td></tr>
+<tr><th align="left">Programming Languages</th><td>-</td></tr>
+</table>
+
+The Gumpbox desktop app Let AI agents deploy your apps for you.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/gumpbox-mcp/gumpbox_mcp.jpg)
+
+</details>
 
 ### Claude Desktop
 
