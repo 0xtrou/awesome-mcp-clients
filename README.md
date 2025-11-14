@@ -77,6 +77,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Argo-LocalAI](#Argo-LocalAI)
     - [MCPCLIHost](#mcpclihost)
     - [Zin MCP Client](#zin-mcp-client)
+    - [Gumpbox](#gumpbox)
   - [Servers](#servers)
 
 ### askit-mcp
@@ -297,28 +298,6 @@ ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 
 ![preview](./screenshots/cherry-studio/preview.png)
 ![settings](./screenshots/cherry-studio/settings.png)
-
-</details>
-
-
-### Gumpbox
-
-<table>
-<tr><th align="left">GitHub</th><td>-</td></tr>
-<tr><th align="left">Website</th><td>https://www.gumpbox.com</td></tr>
-<tr><th align="left">License</th><td>Proprietary</td></tr>
-<tr><th align="left">Type</th><td>Desktop app</td></tr>
-<tr><th align="left">Platforms</th><td>MacOS</td></tr>
-<tr><th align="left">Pricing</th><td>Paid (25$, pay once)</td></tr>
-<tr><th align="left">Programming Languages</th><td>-</td></tr>
-</table>
-
-The Gumpbox desktop app Let AI agents deploy your apps for you.
-
-<details>
-<summary>Screenshots</summary>
-
-![](./screenshots/gumpbox-mcp/gumpbox_mcp.jpg)
 
 </details>
 
@@ -1369,6 +1348,28 @@ Lightweight, Fast, Simple, CLI MCP Client for MCP Servers. Supporting TUI, stdio
 
 ![example1](./screenshots/agent-cli/agentcli.gif)
 ![example2](./screenshots/agent-cli/tui.gif)
+
+</details>
+
+
+### Gumpbox
+
+<table>
+<tr><th align="left">GitHub</th><td>-</td></tr>
+<tr><th align="left">Website</th><td>https://www.gumpbox.com</td></tr>
+<tr><th align="left">License</th><td>Proprietary</td></tr>
+<tr><th align="left">Type</th><td>Desktop app</td></tr>
+<tr><th align="left">Platforms</th><td>MacOS</td></tr>
+<tr><th align="left">Pricing</th><td>Paid (25$, pay once)</td></tr>
+<tr><th align="left">Programming Languages</th><td>-</td></tr>
+</table>
+
+The Gumpbox desktop app Let AI agents deploy your apps for you.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/gumpbox-mcp/gumpbox_mcp.jpg)
 
 </details>
 
